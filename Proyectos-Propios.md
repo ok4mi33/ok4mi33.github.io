@@ -2,7 +2,7 @@
 layout: default
 ---
 
-##Proyectos propios
+## Proyectos propios
 Aquí plantearé proyectos en los que estaré trabajando o desarrollando(sale mal).
 
 ```python
