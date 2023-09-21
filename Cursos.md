@@ -2,7 +2,7 @@
 layout: default
 ---
 
-##Cursos 
+## Cursos 
 Aquí comentaré mis experiencias y proyectos generados en base a cursos tomados 
 a lo largo de mi carrera
 

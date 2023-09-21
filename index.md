@@ -8,8 +8,6 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Primera Publicación](./21-de-septiembre-de-2023.html).
 
-[Segunda Publicación](./segunda-prueba.html)
-
 [Cursos](./Cursos.html)
 
 [Vida Universitaria](./Vida-Universitaria.html)
