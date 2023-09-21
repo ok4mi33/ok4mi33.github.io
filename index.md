@@ -10,6 +10,13 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Segunda Publicación](./segunda-prueba.html)
 
+[Cursos](./Cursos.html)
+
+[Vida Universitaria](./Vida-Universitaria.html)
+
+[Proyectos Propios](./Proyectos-Propios.html)
+
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
