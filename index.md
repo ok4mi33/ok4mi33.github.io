@@ -8,6 +8,8 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Primera Publicación](./21-de-septiembre-de-2023.html).
 
+[Segunda Publicación](./segunda-prueba.html)
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
