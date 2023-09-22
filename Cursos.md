@@ -6,6 +6,8 @@ layout: default
 Aquí comentaré mis experiencias y proyectos generados en base a cursos tomados 
 a lo largo de mi carrera
 
+[PYTHON SELENIUM](./Selenium.html)
+
 ```python
 #!/usr/bin/python3
 
