@@ -1,8 +1,9 @@
 @import "rouge-base16-dark";
 @import "default_colors";
 
-$body-background: #4169E1 ; //$cod-grey !defualt ;
-$body-foreground: white ; //$gallery !default ;
+$body-background: $cod-grey !default ;
+//#4169E1 ; //$cod-grey !defualt ;
+$body-foreground: $gallery !default ;
 $header: $conifer white;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
