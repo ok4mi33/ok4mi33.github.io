@@ -1,9 +1,9 @@
 @import "rouge-base16-dark";
 @import "default_colors";
 
-$body-background: $cod-grey !default;
-$body-foreground: $gallery !default;
-$header: $conifer !default;
+$body-background: #4169E1 ; //$cod-grey !defualt ;
+$body-foreground: white ; //$gallery !default ;
+$header: $conifer white;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
 $container-max-width: 1000px;
@@ -17,7 +17,7 @@ $container-max-width: 1000px;
 body {
   margin: 0;
   padding: 0;
-  background: $body-background url("../images/bkg.png") 0 0;
+  background: $body-background url("https://png.pngtree.com/thumb_back/fh260/background/20210227/pngtree-grainy-texture-background-image_570812.jpg") 0 0; //url("../images/bkg.png") 0 0;
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.5;
@@ -65,7 +65,7 @@ header h1 {
   margin: 0 0 0 -40px;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: $conifer;//$header;
+  color: white;//$header;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
@@ -78,7 +78,7 @@ header h1 {
 
 
 header h1:before {
-  content: "./ ";
+  content: " ./ ";
   font-size: 24px;
 }
 
